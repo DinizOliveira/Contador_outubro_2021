@@ -6,7 +6,7 @@ const nextYearContainer = document.querySelector('#year')
 const spinnerLoading = document.querySelector('#loading')
 const countdownContainer = document.querySelector('#countdown')
 
-const tempoParaOutubro = new Date('October 01 2021 00:00:01')
+const tempoParaOutubro = new Date('November 01 2021 00:00:01')
 
 const getTimeUnit = unit => unit < 10 ? '0' + unit : unit
 

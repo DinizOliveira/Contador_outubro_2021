@@ -86,3 +86,16 @@ h1 {
     font-size: 10px;
   }
 }
+
+.games {
+  float: left;
+  clear: left;
+  text-transform: uppercase;
+  padding: 1px 5px;
+  text-align: left;
+}
+
+.games a {
+  color: inherit;
+  text-decoration: none;
+}
